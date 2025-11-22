@@ -2,6 +2,10 @@
 
 A Python-based text-to-speech platform that can handle long texts (up to 100,000+ characters) by intelligently splitting them into chunks and combining the audio output using the Speechify API.
 
+Click the link below to grab a **cheap, high-performance VPS** and start hosting your projects instantly:
+
+👉 **[Get Your Cheap VPS Here](https://www.tkqlhce.com/5k117cy63y5LNMNPTTSSSLNRMOOPST?sid=medium)**
+
 ## Features
 
 - **Long Text Support**: Process texts up to 100,000+ characters by splitting into 1900-character chunks
